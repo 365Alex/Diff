@@ -6,7 +6,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         var dog = 8.0;
         var cat = 3.6;
-        var paper = 763789;
         System.out.println(dog);
     }
 }
